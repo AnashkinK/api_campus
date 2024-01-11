@@ -1,0 +1,8 @@
+httpx
+BeautifulSoup
+Flask
+sonify 
+request
+asyncio
+redis
+json
